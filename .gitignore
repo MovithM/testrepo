@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio / video / datasets
+*.wav
+*.mp4
+*.zip
+RAVDESS/
+Emotion_fold/RAVDESS/
+
+# Trained models
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# Temp / generated
+*.arff
+tmp_*
